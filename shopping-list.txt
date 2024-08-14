@@ -1,0 +1,11 @@
+1 apple
+2 banana
+3 oranges
+4 milk
+5 pizza
+6 bread
+7 carrots
+8 crisps
+9 burgers
+10 sausages
+
